@@ -1,0 +1,6 @@
+2026/08/26-15:52:28.738 3008836 Reusing MANIFEST /Users/felipe.ooliveira/Pos/_downloader/browser-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/26-15:52:28.740 3008836 Recovering log #10
+2026/08/26-15:52:28.740 3008836 Reusing old log /Users/felipe.ooliveira/Pos/_downloader/browser-profile/Default/Local Storage/leveldb/000010.log 
+2026/08/26-15:55:30.930 3008838 Level-0 table #14: started
+2026/08/26-15:55:30.935 3008838 Level-0 table #14: 11480 bytes OK
+2026/08/26-15:55:30.938 3008838 Delete type=0 #10

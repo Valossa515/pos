@@ -1,0 +1,754 @@
+{
+ "41726": {
+  "name": "User Experience (UX) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "29/05/2025 - 19:00|23:00"
+ },
+ "41727": {
+  "name": "User Experience (UX) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "05/06/2025 - 19:00|23:00"
+ },
+ "41728": {
+  "name": "Orquestração de Containers (Kubernetes) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "12/06/2025 - 19:00|23:00"
+ },
+ "41729": {
+  "name": "Orquestração de Containers (Kubernetes) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "18/06/2025 - 19:00|23:00"
+ },
+ "41730": {
+  "name": "Métodos ágeis I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "26/06/2025 - 19:00|23:00"
+ },
+ "41731": {
+  "name": "Métodos ágeis II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "03/07/2025 - 19:00|23:00"
+ },
+ "41732": {
+  "name": "Microsserviços I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "31/07/2025 - 19:00|23:00"
+ },
+ "41734": {
+  "name": "Cloud Computing (IaaS, Paas, SaaS) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "24/07/2025 - 19:00|23:00"
+ },
+ "41736": {
+  "name": "Microsserviços II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "07/08/2025 - 19:00|23:00"
+ },
+ "41737": {
+  "name": "Autenticação e segurança em microsserviços",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "14/08/2025 - 19:00|23:00"
+ },
+ "41738": {
+  "name": "Infra As Code (IAC) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "21/08/2025 - 19:00|23:00"
+ },
+ "41739": {
+  "name": "Infra As Code (IAC) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "28/08/2025 - 19:00|23:00"
+ },
+ "41740": {
+  "name": "Devops I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "04/09/2025 - 19:00|23:00"
+ },
+ "41741": {
+  "name": "Devops II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "11/09/2025 - 19:00|23:00"
+ },
+ "41742": {
+  "name": "Serverless I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "18/09/2025 - 19:00|23:00"
+ },
+ "41743": {
+  "name": "Serverless II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "25/09/2025 - 19:00|23:00"
+ },
+ "41744": {
+  "name": "Fundamentos da Segurança da Informação",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "02/10/2025 - 19:00|23:00"
+ },
+ "41745": {
+  "name": "Investimento e Valuation de Empresas (de Tecnologia) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "09/10/2025 - 19:00|23:00"
+ },
+ "41746": {
+  "name": "Investimento e Valuation de Empresas (de Tecnologia) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "16/10/2025 - 19:00|23:00"
+ },
+ "41747": {
+  "name": "Comunicação I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "23/10/2025 - 19:00|23:00"
+ },
+ "41748": {
+  "name": "Comunicação II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "30/10/2025 - 19:00|23:00"
+ },
+ "43550": {
+  "name": "Design Thinking I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "06/11/2025 - 19:00|23:00"
+ },
+ "43551": {
+  "name": "Design Thinking II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "13/11/2025 - 19:00|23:00"
+ },
+ "43563": {
+  "name": "Bancos de Dados Relacionais I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "05/02/2026 - 19:00|23:00"
+ },
+ "43564": {
+  "name": "Bancos de Dados Relacionais II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "12/02/2026 - 19:00|23:00"
+ },
+ "43565": {
+  "name": "Bancos de Dados Não Relacionais I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "19/02/2026 - 19:00|23:00"
+ },
+ "43566": {
+  "name": "Bancos de Dados Não Relacionais II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "26/02/2026 - 19:00|23:00"
+ },
+ "43567": {
+  "name": "Engenharia de dados I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "05/03/2026 - 19:00|23:00"
+ },
+ "43568": {
+  "name": "Engenharia de dados II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "12/03/2026 - 19:00|23:00"
+ },
+ "43569": {
+  "name": "Legislação no Ambiente Digital (LGPD) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "19/03/2026 - 19:00|23:00"
+ },
+ "43570": {
+  "name": "Legislação no Ambiente Digital (LGPD) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "26/03/2026 - 19:00|23:00"
+ },
+ "43571": {
+  "name": "Gestão de Conflitos",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "02/04/2026 - 19:00|23:00"
+ },
+ "43572": {
+  "name": "Inteligência Emocional",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "09/04/2026 - 19:00|23:00"
+ },
+ "43573": {
+  "name": "IoT I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "16/04/2026 - 19:00|23:00"
+ },
+ "43574": {
+  "name": "IoT II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "23/04/2026 - 19:00|23:00"
+ },
+ "43575": {
+  "name": "Liderança em Projetos de Tecnologia I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "30/04/2026 - 19:00|23:00"
+ },
+ "43576": {
+  "name": "Liderança em Projetos de Tecnologia II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "07/05/2026 - 19:00|23:00"
+ },
+ "43577": {
+  "name": "Blockchain e Criptomoedas I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "14/05/2026 - 19:00|23:00"
+ },
+ "43578": {
+  "name": "Blockchain e Criptomoedas II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "21/05/2026 - 19:00|23:00"
+ },
+ "44648": {
+  "name": "Abertura do Curso",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "08/05/2025 - 19:00|22:00"
+ },
+ "44649": {
+  "name": "Cloud Computing (IaaS, Paas, SaaS) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "17/07/2025 - 19:00|23:00"
+ },
+ "44651": {
+  "name": "Paradigmas de Desenvolvimento de Software I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "28/05/2026 - 19:00|23:00"
+ },
+ "44653": {
+  "name": "Paradigmas de Desenvolvimento de Software II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "11/06/2026 - 19:00|23:00"
+ },
+ "44654": {
+  "name": "Padrões de Projetos (Design Patterns) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "18/06/2026 - 19:00|23:00"
+ },
+ "44655": {
+  "name": "Padrões de Projetos (Design Patterns) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "25/06/2026 - 19:00|23:00"
+ },
+ "44656": {
+  "name": "Domain Driven Design (DDD) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "02/07/2026 - 19:00|23:00"
+ },
+ "44658": {
+  "name": "Domain Driven Design (DDD) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "16/07/2026 - 19:00|23:00"
+ },
+ "44659": {
+  "name": "Arquitetura Limpa (Clean Architecture) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "23/07/2026 - 19:00|23:00"
+ },
+ "44660": {
+  "name": "Arquitetura Limpa (Clean Architecture) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "30/07/2026 - 19:00|23:00"
+ },
+ "44661": {
+  "name": "Event Storming em Projetos de Software",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "06/08/2026 - 19:00|23:00"
+ },
+ "44662": {
+  "name": "Gerenciamento de Testes (TDD) I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "13/08/2026 - 19:00|23:00"
+ },
+ "44663": {
+  "name": "Gerenciamento de Testes (TDD) II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "20/08/2026 - 19:00|23:00"
+ },
+ "44664": {
+  "name": "Micro-front-end I",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "27/08/2026 - 19:00|23:00"
+ },
+ "44665": {
+  "name": "Micro-front-end II",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "03/09/2026 - 19:00|23:00"
+ },
+ "44666": {
+  "name": "Arquitetura Mobile I",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "10/09/2026 - 19:00|23:00"
+ },
+ "44667": {
+  "name": "Arquitetura Mobile II",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "17/09/2026 - 19:00|23:00"
+ },
+ "44668": {
+  "name": "Gerenciamento e Estruturas de Filas I",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "24/09/2026 - 19:00|23:00"
+ },
+ "44674": {
+  "name": "Conteinerização de serviços (Docker)",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "12/05/2025 - 19:00|23:00"
+ },
+ "44675": {
+  "name": "Desenvolvimento frontend I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "15/05/2025 - 19:00|23:00"
+ },
+ "44676": {
+  "name": "Desenvolvimento frontend II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "19/05/2025 - 19:00|23:00"
+ },
+ "44677": {
+  "name": "Desenvolvimento backend I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "22/05/2025 - 19:00|23:00"
+ },
+ "44678": {
+  "name": "Desenvolvimento backend II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "26/05/2025 - 19:00|23:00"
+ },
+ "45340": {
+  "name": "Palestra: Gestão de Equipes de Alta Performance",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "11/06/2025 - 18:00|19:00"
+ },
+ "45938": {
+  "name": "MBA DAY - Chamada para o Sucesso",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "25/03/2025 - 19:00|21:00"
+ },
+ "46433": {
+  "name": "Palestra - Europa em Foco: As Tendências de Consumo que Estão Redesenhando o Varejo Global",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "22/04/2025 - 18:00|19:00"
+ },
+ "46782": {
+  "name": "Boas-vindas",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "07/05/2025 - 08:00|09:00"
+ },
+ "46920": {
+  "name": "Palestra Geral: Transformando Estratégia em Resultados - o elo entre estratégia, projetos e pessoas",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "04/08/2025 - 18:00|19:00"
+ },
+ "47732": {
+  "name": "Prova dos Vídeos do TCC",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "24/09/2025 - 09:00|09:01"
+ },
+ "47964": {
+  "name": "Palestra Geral: Dimensões Socio-Emocionais do educar",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "07/08/2025 - 18:00|19:00"
+ },
+ "48664": {
+  "name": "Palestra Geral: O currículo que abre portas: Transforme seu MBA em entrevistas reais",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "20/08/2025 - 18:00|19:00"
+ },
+ "48668": {
+  "name": "Técnicas de Machine Learning I",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "27/11/2025 - 19:00|23:00"
+ },
+ "48669": {
+  "name": "Técnicas de Machine Learning II",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "04/12/2025 - 19:00|23:00"
+ },
+ "48670": {
+  "name": "Técnicas de Machine Learning III",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "22/01/2026 - 19:00|23:00"
+ },
+ "49106": {
+  "name": "Tendências em Inteligência Artificial e Big Data",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "20/02/2026 - 19:00|23:00"
+ },
+ "49393": {
+  "name": "Palestra Geral: Unified Experience – como grandes marcas em Paris e NY atraem consumidores",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "06/10/2025 - 18:00|19:00"
+ },
+ "49394": {
+  "name": "Palestra Geral: Como a Inteligência Artificial está redefinindo o mercado de consumo",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "10/11/2025 - 18:00|19:00"
+ },
+ "49472": {
+  "name": "Palestra Geral: Insights do Pacto Global – Rede Brasil para o Compliance",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "14/10/2025 - 18:00|19:00"
+ },
+ "49657": {
+  "name": "Como Construir um TCC de Sucesso?",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "11/11/2025 - 19:00|22:00"
+ },
+ "49947": {
+  "name": "Palestra Geral: Idade Não Define Talento: Construindo Culturas Inclusivas e Sustentáveis",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "13/11/2025 - 18:00|19:00"
+ },
+ "49951": {
+  "name": "Palestra Geral: Reforma Tributária no Agronegócio",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "02/12/2025 - 18:00|19:00"
+ },
+ "50014": {
+  "name": "Palestra Geral: Carreira Executiva: Capacitação e Planejamento para impulsionar sua carreira",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "25/11/2025 - 18:00|19:00"
+ },
+ "50345": {
+  "name": "Aula Extra: Automação com IA e Low-Code",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "29/01/2026 - 19:00|23:00"
+ },
+ "51442": {
+  "name": "Palestra Geral: Entrevista sem mistério",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "25/03/2026 - 18:00|19:00"
+ },
+ "51443": {
+  "name": "Palestra Geral: IA Estratégica: Como os Gestores Estão Multiplicando Resultados",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "17/06/2026 - 18:00|19:00"
+ },
+ "51889": {
+  "name": "Palestra Geral: A Vantagem Competitiva das Diferenças",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "15/04/2026 - 18:00|19:00"
+ },
+ "52382": {
+  "name": "Palestra Geral: Faça sua marca se destacar: Chilli Beans líder em óculos no Brasil",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "05/05/2026 - 18:00|19:00"
+ },
+ "52464": {
+  "name": "Palestra Geral: Discovery Commerce - a nova jornada de compra que está transformando o consumo",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "19/05/2026 - 18:00|19:00"
+ },
+ "52609": {
+  "name": "Palestra Geral: Além do chat? Ferramentas e cases de adoção de IA generativa que movem ponteiros",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "30/06/2026 - 18:00|19:00"
+ },
+ "52835": {
+  "name": "Palestra Geral: Internacionalização de negócios: estratégias para competir globalmente",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "23/06/2026 - 18:00|19:00"
+ },
+ "52910": {
+  "name": "Palestra Geral: Reinventando a carreira depois dos 40",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "23/09/2026 - 18:00|19:00"
+ },
+ "52927": {
+  "name": "Palestra Geral: O cérebro do líder na era da IA: como a neurociência potencializa a liderança",
+  "statuses": [
+   "4",
+   ""
+  ],
+  "date": "02/09/2026 - 18:00|19:00"
+ },
+ "53222": {
+  "name": "Palestra Geral: MBA Day 125 anos",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "21/07/2026 - 10:00|11:00"
+ },
+ "53327": {
+  "name": "Palestra Geral: As Tecnologias e modelos de Negócios por trás da Inovação Global",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "27/07/2026 - 18:00|19:00"
+ },
+ "53342": {
+  "name": "Palestra geral: Your company has data, but does it have a strategy?",
+  "statuses": [
+   "2",
+   ""
+  ],
+  "date": "28/07/2026 - 17:00|18:00"
+ }
+}

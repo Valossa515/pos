@@ -1,0 +1,1081 @@
+[
+ {
+  "classId": "45938",
+  "name": "MBA DAY - Chamada para o Sucesso",
+  "folder": "Aula 01 - 2025-03-25 - MBA DAY - Chamada para o Sucesso",
+  "files": [
+   "Regulamento promocional - PT..pdf",
+   "Reglamento de la Acción Promocional..pdf",
+   "Regulation of the Promotional Campaign..pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "46433",
+  "name": "Palestra - Europa em Foco: As Tendências de Consumo que Estão Redesenhando o Varejo Global",
+  "folder": "Aula 02 - 2025-04-22 - Palestra - Europa em Foco- As Tendências de Consumo que Estão Redesenhando o Varejo Global",
+  "files": [
+   "Slides-Diapositivas/Palestra Europa em Foco 22.04.2025.pdf",
+   "Slides-Diapositivas/Europe in Focus - Updated 04.22.25.pdf",
+   "Slides-Diapositivas/Conf Europa en Destaque 22.04.2025_actual.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "46782",
+  "name": "Boas-vindas",
+  "folder": "Aula 03 - 2025-05-07 - Boas-vindas",
+  "files": [],
+  "errors": [],
+  "note": "sem materiais"
+ },
+ {
+  "classId": "44648",
+  "name": "Abertura do Curso",
+  "folder": "Aula 04 - 2025-05-08 - Abertura do Curso",
+  "files": [
+   "Slides/Aula Inaugural ENGS 08.05.25.pdf",
+   "Perguntas e Respostas/Perguntas e Respostas 08.05.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44674",
+  "name": "Conteinerização de serviços (Docker)",
+  "folder": "Aula 05 - 2025-05-12 - Conteinerização de serviços (Docker)",
+  "files": [
+   "Material complementar pré-aula/Tutorial Instalacao Docker maio25.pdf",
+   "Material complementar pré-aula/Tutorial Instalacao Docker no VS Code e acesso.pdf",
+   "Material complementar pré-aula/Tutorial Instalacao VS Code.pdf",
+   "Arquivos e Scripts/aula-containers.zip",
+   "Slides/Conteinerizacao de servicos (Docker) 12.05.2025.pdf",
+   "Material complementar pós-aula/Material complementar pós-aula 12.05.2025.pdf",
+   "Perguntas e Respostas/Perguntas e Respostas 12.05.2025..pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44675",
+  "name": "Desenvolvimento frontend I",
+  "folder": "Aula 06 - 2025-05-15 - Desenvolvimento frontend I",
+  "files": [
+   "Slides/Desenvolvimento frontend I 15.05.25.pdf",
+   "Material complementar pré-aula/Instrucoes e requisitos da aula 1.pdf",
+   "Material complementar pré-aula/Tutorial Instalacao da extensao Live Server.pdf",
+   "Material complementar pré-aula/Tutorial instalacao VS Code.pdf",
+   "Arquivos e Scripts/Front-end-1.zip",
+   "Caderno do Aluno/MBA USP ESALQ - Instrucoes Caderno do Aluno.png",
+   "Caderno do Aluno/MBA USP ESALQ - Caderno do Aluno.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44676",
+  "name": "Desenvolvimento frontend II",
+  "folder": "Aula 07 - 2025-05-19 - Desenvolvimento frontend II",
+  "files": [
+   "Slides/Desenvolvimento frontend 19.05.25.pdf",
+   "Material complementar/Instrucoes e requisitos da aula 2.pdf",
+   "Material complementar/Tutorial Instalacao da extensao Live Server.pdf",
+   "Material complementar/Tutorial instalacao VS Code.pdf",
+   "Arquivos e Scripts/Front-end-2.zip",
+   "Material complementar pós-aula/Material complementar pós-aula 19.05.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44677",
+  "name": "Desenvolvimento backend I",
+  "folder": "Aula 08 - 2025-05-22 - Desenvolvimento backend I",
+  "files": [
+   "Material complementar pré-aula/Instrucoes e requisitos da aula 3.pdf",
+   "Arquivos e Scripts/backend-aula-1.zip",
+   "Material complementar/Tutorial Instalacao Docker no VS Code e acesso.pdf",
+   "Material complementar/Tutorial Instalacao Docker.pdf",
+   "Material complementar/Tutorial Instalacao VS Code.pdf",
+   "Slides/Desenvolvimento backend I 22.05.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44678",
+  "name": "Desenvolvimento backend II",
+  "folder": "Aula 09 - 2025-05-26 - Desenvolvimento backend II",
+  "files": [
+   "Slides/Desenvolvimento Backend II 26.05.25.pdf",
+   "Material complementar pré-aula/Instrucoes e requisitos da aula 4.pdf",
+   "Arquivos e Scripts/backend-aula-2.zip",
+   "Material complementar/Tutorial Instalacao Docker no VS Code e acesso.pdf",
+   "Material complementar/Tutorial Instalacao Docker.pdf",
+   "Material complementar/Tutorial Instalacao VS Code.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41726",
+  "name": "User Experience (UX) I",
+  "folder": "Aula 10 - 2025-05-29 - User Experience (UX) I",
+  "files": [
+   "Slides/User Experience (UX) I 29.05.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41727",
+  "name": "User Experience (UX) II",
+  "folder": "Aula 11 - 2025-06-05 - User Experience (UX) II",
+  "files": [
+   "Slides/User Experience (UX) II 05.06.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "45340",
+  "name": "Palestra: Gestão de Equipes de Alta Performance",
+  "folder": "Aula 12 - 2025-06-11 - Palestra- Gestão de Equipes de Alta Performance",
+  "files": [
+   "Slides/Gestão de Equipes de Alta Performance 11.06.2025.pdf",
+   "Slides/Gestión de Equipos de Alto Rendimiento 11.06.2025.ES.pdf",
+   "Slides/Managing High-Performance Teams 06.11.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41728",
+  "name": "Orquestração de Containers (Kubernetes) I",
+  "folder": "Aula 13 - 2025-06-12 - Orquestração de Containers (Kubernetes) I",
+  "files": [
+   "Slides/Orquestração de Containers (Kubernetes) 12.06.2025_SL.pdf",
+   "Material complementar pré-aula/Tutorial instalacao Kind_MC.pdf",
+   "Arquivos e Scripts/aula-k8s.zip",
+   "Material complementar pós-aula/Material complementar pós-aula_MC.pdf",
+   "Material complementar pós-aula/aula-k8s-excalidraw.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41729",
+  "name": "Orquestração de Containers (Kubernetes) II",
+  "folder": "Aula 14 - 2025-06-18 - Orquestração de Containers (Kubernetes) II",
+  "files": [
+   "Material complementar/Tutorial instalacao Kind_MC.pdf",
+   "Arquivos e Scripts/aula-k8s.zip",
+   "Slides/Orquestração de Containers (Kubernetes) 18.06.2025_SL.pdf",
+   "Material complementar pós-aula/Material complementar pós-aula_MC.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41730",
+  "name": "Métodos ágeis I",
+  "folder": "Aula 15 - 2025-06-26 - Métodos ágeis I",
+  "files": [
+   "Slides/Metodos Ageis 26.06.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41731",
+  "name": "Métodos ágeis II",
+  "folder": "Aula 16 - 2025-07-03 - Métodos ágeis II",
+  "files": [
+   "Slides/Metodos Ágeis 03.07.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44649",
+  "name": "Cloud Computing (IaaS, Paas, SaaS) I",
+  "folder": "Aula 17 - 2025-07-17 - Cloud Computing (IaaS, Paas, SaaS) I",
+  "files": [
+   "Folder módulos internacionais de ENGS.pdf",
+   "Material Complementar/Material Complementar 17.07 e 24.07.25_MC.pdf",
+   "Slides/Cloud Computing I 17.07.25.pdf",
+   "Tutorial/Como criar conta Azure.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41734",
+  "name": "Cloud Computing (IaaS, Paas, SaaS) II",
+  "folder": "Aula 18 - 2025-07-24 - Cloud Computing (IaaS, Paas, SaaS) II",
+  "files": [
+   "Material Complementar/Material Complementar 17.07 e 24.07.25_MC.pdf",
+   "Slides/Cloud Computing II 24.07.25 atualiz.pdf",
+   "Tutorial/Como criar conta Azure.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41732",
+  "name": "Microsserviços I",
+  "folder": "Aula 19 - 2025-07-31 - Microsserviços I",
+  "files": [
+   "Material complementar/Material complementar 31.07.2025_MC.pdf",
+   "Slides/Microsservicos I 31.07.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "46920",
+  "name": "Palestra Geral: Transformando Estratégia em Resultados - o elo entre estratégia, projetos e pessoas",
+  "folder": "Aula 20 - 2025-08-04 - Palestra Geral- Transformando Estratégia em Resultados - o elo entre estratégia, projetos e pessoas",
+  "files": [
+   "Slides/Transformando Estratégia em Resultados 04.08.2025_SL.pdf",
+   "Slides/Turning Strategy into Results 08.04.25.pdf",
+   "Slides/Transformando Estrategia en Resultados 04.08.2025_SL.ES.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41736",
+  "name": "Microsserviços II",
+  "folder": "Aula 21 - 2025-08-07 - Microsserviços II",
+  "files": [
+   "Material complementar/Material complementar 07.08.2025_MC.pdf",
+   "Slides/Microsservicos I 07.08.2025_SL.pdf",
+   "Material complementar pós-aula/car-microservices-apigw-main.zip",
+   "Material complementar pós-aula/car-system-monolith-main.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "47964",
+  "name": "Palestra Geral: Dimensões Socio-Emocionais do educar",
+  "folder": "Aula 22 - 2025-08-07 - Palestra Geral- Dimensões Socio-Emocionais do educar",
+  "files": [],
+  "errors": [],
+  "note": "sem materiais"
+ },
+ {
+  "classId": "41737",
+  "name": "Autenticação e segurança em microsserviços",
+  "folder": "Aula 23 - 2025-08-14 - Autenticação e segurança em microsserviços",
+  "files": [
+   "Slides/Aut Seg microsservicos 14.08.2025 _SL.pdf",
+   "Material complementar pós-aula/car-microservices-apigw-main.zip",
+   "Material complementar pós-aula/car-system-monolith-main.zip",
+   "Material complementar pós-aula/ecommerce-microservices-main.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "48664",
+  "name": "Palestra Geral: O currículo que abre portas: Transforme seu MBA em entrevistas reais",
+  "folder": "Aula 24 - 2025-08-20 - Palestra Geral- O currículo que abre portas- Transforme seu MBA em entrevistas reais",
+  "files": [
+   "Slides/Palestra_O currículo que abre portas_20.08.2025.pdf",
+   "Slides/Lecture The resume that opens doors 08.20.25.pdf",
+   "Slides/Conferencia-El curriculum que abre puertas 20.08.2025.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41738",
+  "name": "Infra As Code (IAC) I",
+  "folder": "Aula 25 - 2025-08-21 - Infra As Code (IAC) I",
+  "files": [
+   "Material complementar/Material complementar 21.08.2025_MC.pdf",
+   "Material complementar/USP EsalqTeoria e Pratica_MC.pdf",
+   "Slides/Infra As Code 21.08.25_SL.pdf",
+   "Scripts/aula-iac.zip",
+   "Material complementar pós-aula/Material Complementar Pós Aula.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41739",
+  "name": "Infra As Code (IAC) II",
+  "folder": "Aula 26 - 2025-08-28 - Infra As Code (IAC) II",
+  "files": [
+   "Material complementar/Material complementar 21 e 28.08.2025_MC.pdf",
+   "Material complementar/USP EsalqTeoria e Pratica_MC.pdf",
+   "Arquivos e Scripts/aula-iac.zip",
+   "Slides/Infra As Code 28.08.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41740",
+  "name": "Devops I",
+  "folder": "Aula 27 - 2025-09-04 - Devops I",
+  "files": [
+   "Slides/DevOps 04.08.2025.pdf",
+   "Arquivos e Scripts/Labs Aula 1.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41741",
+  "name": "Devops II",
+  "folder": "Aula 28 - 2025-09-11 - Devops II",
+  "files": [
+   "Material complementar/Instrucoes e Requisitos Aula 2 (Labs).pdf",
+   "Material complementar/Labs Aula 2.zip",
+   "Slides/Devops II 11.09.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41742",
+  "name": "Serverless I",
+  "folder": "Aula 29 - 2025-09-18 - Serverless I",
+  "files": [
+   "Slides/Serverless I 18.09.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "47732",
+  "name": "Prova dos Vídeos do TCC",
+  "folder": "Aula 30 - 2025-09-24 - Prova dos Vídeos do TCC",
+  "files": [],
+  "errors": [],
+  "note": "sem materiais"
+ },
+ {
+  "classId": "41743",
+  "name": "Serverless II",
+  "folder": "Aula 31 - 2025-09-25 - Serverless II",
+  "files": [
+   "Slides/Serverless II 25.09.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41744",
+  "name": "Fundamentos da Segurança da Informação",
+  "folder": "Aula 32 - 2025-10-02 - Fundamentos da Segurança da Informação",
+  "files": [
+   "Slides/Fund. Seguranca da Informacao 02.10.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49393",
+  "name": "Palestra Geral: Unified Experience – como grandes marcas em Paris e NY atraem consumidores",
+  "folder": "Aula 33 - 2025-10-06 - Palestra Geral- Unified Experience – como grandes marcas em Paris e NY atraem consumidores",
+  "files": [
+   "Material Complementar/Material complementar 06.10.2025_MC.pdf",
+   "Slides/Palestra Unified Experience 06.10.2025_SL.pdf",
+   "Slides/Unified Experience Lecture 10.06.2025_SL.pdf",
+   "Slides/Conferencia Unified Experience 06.10.2025_SL.ES.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41745",
+  "name": "Investimento e Valuation de Empresas (de Tecnologia) I",
+  "folder": "Aula 34 - 2025-10-09 - Investimento e Valuation de Empresas (de Tecnologia) I",
+  "files": [
+   "Material complementar/Aula Valuation 1 Eng Soft 2025_MC.xlsx",
+   "Slides/Investimento e Valuation 09 e 14.10.2025_SL.pdf",
+   "Material complementar pós-aula/Aula Valuation 1 Eng Soft 2025 Solucao_MC.xlsx"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49472",
+  "name": "Palestra Geral: Insights do Pacto Global – Rede Brasil para o Compliance",
+  "folder": "Aula 35 - 2025-10-14 - Palestra Geral- Insights do Pacto Global – Rede Brasil para o Compliance",
+  "files": [
+   "Slides/Palestra Pacto Global da ONU 14.10.2025_SL.pdf",
+   "Slides/Lecture UN Global Compact 10.14.2025_SL.pdf",
+   "Slides/Conferencia Pacto Global de la ONU 14.10.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41746",
+  "name": "Investimento e Valuation de Empresas (de Tecnologia) II",
+  "folder": "Aula 36 - 2025-10-16 - Investimento e Valuation de Empresas (de Tecnologia) II",
+  "files": [
+   "Material complementar/Aula Valuation 2 Eng Soft 2025_MC.xlsx",
+   "Slides/Investimento e Valuation 16.10.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41747",
+  "name": "Comunicação I",
+  "folder": "Aula 37 - 2025-10-23 - Comunicação I",
+  "files": [
+   "Material complementar pré-aula/Material complementar pré-aula 23.10.2025_MC.pdf",
+   "Slides/Slides Comunicacao I e II 23-30.10.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "41748",
+  "name": "Comunicação II",
+  "folder": "Aula 38 - 2025-10-30 - Comunicação II",
+  "files": [
+   "Slides/Slides Comunicacao I e II 23-30.10.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43550",
+  "name": "Design Thinking I",
+  "folder": "Aula 39 - 2025-11-06 - Design Thinking I",
+  "files": [
+   "Caderno do Aluno/MBA USP ESALQ - Caderno do Aluno_ME.pdf",
+   "Caderno do Aluno/MBA USP ESALQ - Instrucoes Caderno do Aluno_ME.png",
+   "Slides/Design Thinking 06.11.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49394",
+  "name": "Palestra Geral: Como a Inteligência Artificial está redefinindo o mercado de consumo",
+  "folder": "Aula 40 - 2025-11-10 - Palestra Geral- Como a Inteligência Artificial está redefinindo o mercado de consumo",
+  "files": [
+   "Slides/General Lecture 11.10.2025_SL.pdf",
+   "Slides/Palestra Geral 10.11.2025_SL.pdf",
+   "Slides/Conferencia general 10.11.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49657",
+  "name": "Como Construir um TCC de Sucesso?",
+  "folder": "Aula 41 - 2025-11-11 - Como Construir um TCC de Sucesso-",
+  "files": [
+   "Slides/Como Construir um TCC de Sucesso 11 e 13.11.2025_SA.pdf",
+   "Slides/How to Develop a Successful Term Paper 11.11,13.2025_SA.pdf",
+   "Slides/Cómo Construir un TCC de Éxito 11 y 13.11.2025_SA.ES.pdf",
+   "Perguntas e Respostas/Perguntas e Respostas 11.11.2025_PR.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43551",
+  "name": "Design Thinking II",
+  "folder": "Aula 42 - 2025-11-13 - Design Thinking II",
+  "files": [
+   "Material complementar pré-aula/Material complementar pre-aula 13.11.2025_MC.pdf",
+   "Slides/Design Thinking 13.11.2025_SA.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49947",
+  "name": "Palestra Geral: Idade Não Define Talento: Construindo Culturas Inclusivas e Sustentáveis",
+  "folder": "Aula 43 - 2025-11-13 - Palestra Geral- Idade Não Define Talento- Construindo Culturas Inclusivas e Sustentáveis",
+  "files": [
+   "Slides/Palestra 13.11.2025_SL.pdf",
+   "Slides/Conferencia 13.11.2025_SL.pdf",
+   "Slides/Lecture 11.13.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "50014",
+  "name": "Palestra Geral: Carreira Executiva: Capacitação e Planejamento para impulsionar sua carreira",
+  "folder": "Aula 44 - 2025-11-25 - Palestra Geral- Carreira Executiva- Capacitação e Planejamento para impulsionar sua carreira",
+  "files": [
+   "Material Complementar/Links dos videos.pdf",
+   "Material Complementar/Links dos videos.pdf",
+   "Material Complementar/Links dos videos.pdf",
+   "Folders/Folder Compliance e ESG.pdf",
+   "Folders/Folder Data Science e Analytics.pdf",
+   "Folders/Folder Economia, Investimentos e Banking.pdf",
+   "Folders/Folder Engenharia de Software.pdf",
+   "Folders/Folder ESG & Negocios Sustentaveis.pdf..Folder módulos internacionais de ESG",
+   "Folders/Folder Gestão de Marketing.pdf",
+   "Folders/Folder Gestão de Negócios Digitais e IA.pdf",
+   "Folders/Folder Gestão de Negócios.pdf",
+   "Folders/Folder Gestão de Pessoas.pdf",
+   "Folders/Folder Gestão de Vendas.pdf",
+   "Folders/Folder Gestão em Agronegócios.pdf",
+   "Folders/Folder Gestão Escolar.pdf",
+   "Folders/Folder Gestão Financeira e Controladoria.pdf",
+   "Folders/Folder Gestão Tributária.pdf",
+   "Folders/Folder Projetos.pdf",
+   "Folders/Folder Compliance e ESG.pdf",
+   "Folders/Folder Data Science e Analytics.pdf",
+   "Folders/Folder Economia, Investimentos e Banking.pdf",
+   "Folders/Folder Engenharia de Software.pdf",
+   "Folders/Folder ESG & Negocios Sustentaveis.pdf..Folder módulos internacionais de ESG",
+   "Folders/Folder Gestão de Marketing.pdf",
+   "Folders/Folder Gestão de Negócios Digitais e IA.pdf",
+   "Folders/Folder módulos internacionais de Gestão de Negócios.pdf",
+   "Folders/Folder Gestão de Pessoas.pdf",
+   "Folders/Folder Gestão de Vendas.pdf",
+   "Folders/Folder Gestão em Agronegócios.pdf",
+   "Folders/Folder Gestão Escolar.pdf",
+   "Folders/Folder Gestão Financeira e Controladoria.pdf",
+   "Folders/Folder Gestão Tributária.pdf",
+   "Folders/Folder Projetos.pdf",
+   "Folders/Folder Compliance e ESG.pdf",
+   "Folders/Folder Data Science e Analytics.pdf",
+   "Folders/Folder Economia, Investimentos e Banking.pdf",
+   "Folders/Folder Engenharia de Software.pdf",
+   "Folders/Folder ESG & Negocios Sustentaveis.pdf..Folder módulos internacionais de ESG",
+   "Folders/Folder Gestão de Marketing.pdf",
+   "Folders/Folder Gestão de Negócios Digitais e IA.pdf",
+   "Folders/Folder Gestão de Negócios.pdf",
+   "Folders/Folder Gestão de Pessoas.pdf",
+   "Folders/Folder Gestão de Vendas.pdf",
+   "Folders/Folder Gestão em Agronegócios.pdf",
+   "Folders/Folder Gestão Escolar.pdf",
+   "Folders/Folder Gestão Financeira e Controladoria.pdf",
+   "Folders/Folder Gestão Tributária.pdf",
+   "Folders/Folder Projetos.pdf",
+   "Slides/Palestra Pecege Gestão de Carreira Executiva .pdf",
+   "Slides/Conferencia Pecege Gestión Carrera Ejecutiva.pdf",
+   "Slides/Lecture Pecege Executive Career Management.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "48668",
+  "name": "Técnicas de Machine Learning I",
+  "folder": "Aula 45 - 2025-11-27 - Técnicas de Machine Learning I",
+  "files": [
+   "Arquivos e Scripts/Bancos de Dados_MC.zip",
+   "Slides/Técnicas de Machine Learning 27.11-04.12.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49951",
+  "name": "Palestra Geral: Reforma Tributária no Agronegócio",
+  "folder": "Aula 46 - 2025-12-02 - Palestra Geral- Reforma Tributária no Agronegócio",
+  "files": [
+   "Slides-diapositivas/Tax Reform in Agribusiness 12.02.25_SL.pdf",
+   "Slides-diapositivas/Reforma Tributária no Agronegócio 02.12.2025_SL.pdf",
+   "Slides-diapositivas/Reforma Tributaria en Agronegocio 02.12.2025_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "48669",
+  "name": "Técnicas de Machine Learning II",
+  "folder": "Aula 47 - 2025-12-04 - Técnicas de Machine Learning II",
+  "files": [
+   "Arquivos e Sripts/Bancos de Dados_MC.zip",
+   "Slides/Técnicas de Machine Learning 27.11-04.12.25_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "48670",
+  "name": "Técnicas de Machine Learning III",
+  "folder": "Aula 48 - 2026-01-22 - Técnicas de Machine Learning III",
+  "files": [
+   "Arquivos e Scripts/Bancos de Dados_MC.zip",
+   "Slides/Técnicas de Machine Learning 22.01.2026_SL.pdf",
+   "Material complementar/aula-machine-learning_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "50345",
+  "name": "Aula Extra: Automação com IA e Low-Code",
+  "folder": "Aula 49 - 2026-01-29 - Aula Extra- Automação com IA e Low-Code",
+  "files": [
+   "Material Complementar/Fluxograma do Processo de Aprovacao de Despesas_MC.pdf",
+   "Material Complementar/Politica reembolso 29.01.2026_MC.pdf",
+   "Material Complementar/Prompts 29.01.2026_MC.pdf",
+   "Material Complementar/Checklist Segurança e Governança IA 29.01.2026_MC.pdf",
+   "Slides/Automação com IA e Low-Code 29.01.26_SL.pdf",
+   "Material Complementar Pós-aula/Material complementar pos aula 29.01.2026_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43563",
+  "name": "Bancos de Dados Relacionais I",
+  "folder": "Aula 50 - 2026-02-05 - Bancos de Dados Relacionais I",
+  "files": [
+   "Slides/Bancos de Dados Relacionais I 05.02.26_SL.pdf",
+   "Material Complementar/ambiente-postgres_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43564",
+  "name": "Bancos de Dados Relacionais II",
+  "folder": "Aula 51 - 2026-02-12 - Bancos de Dados Relacionais II",
+  "files": [
+   "Material Complementar/ambiente-postgres_MC.zip",
+   "Slides/Bancos de Dados Relacionais II 12.02.26_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43565",
+  "name": "Bancos de Dados Não Relacionais I",
+  "folder": "Aula 52 - 2026-02-19 - Bancos de Dados Não Relacionais I",
+  "files": [
+   "Slides/Bancos de Dados Nao Relacionais I 19.02.26_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "49106",
+  "name": "Tendências em Inteligência Artificial e Big Data",
+  "folder": "Aula 53 - 2026-02-20 - Tendências em Inteligência Artificial e Big Data",
+  "files": [
+   "Slides/Tendencias em IA e Big Data 20.02.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43566",
+  "name": "Bancos de Dados Não Relacionais II",
+  "folder": "Aula 54 - 2026-02-26 - Bancos de Dados Não Relacionais II",
+  "files": [
+   "Slides/Bancos de Dados Nao Relacionais II 26.02.26_SL.pdf",
+   "Material Complementar/nao-relacional.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43567",
+  "name": "Engenharia de dados I",
+  "folder": "Aula 55 - 2026-03-05 - Engenharia de dados I",
+  "files": [
+   "Slides/Engenharia de Dados I 05.03.2026_SL.pdf",
+   "Material Complementar/aula-engenharia-de-dados.zip",
+   "Material complementar pós-aula/pyspark-comands-main_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43568",
+  "name": "Engenharia de dados II",
+  "folder": "Aula 56 - 2026-03-12 - Engenharia de dados II",
+  "files": [
+   "Slides/Engenharia de Dados II 12.03.2026_SL.pdf",
+   "Arquivos e Scripts/aula-2-mba_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43569",
+  "name": "Legislação no Ambiente Digital (LGPD) I",
+  "folder": "Aula 57 - 2026-03-19 - Legislação no Ambiente Digital (LGPD) I",
+  "files": [
+   "Slides/Legislação no Ambiente Digital I 19.03.2026 ALUNOS_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "51442",
+  "name": "Palestra Geral: Entrevista sem mistério",
+  "folder": "Aula 58 - 2026-03-25 - Palestra Geral- Entrevista sem mistério",
+  "files": [
+   "Slides-Diapositivas/Palestra Entrevista Sem Mistério 25.03.2026_SA.pdf",
+   "Slides-Diapositivas/Lecture Demystifying Interviews 03.25.2026_SL.pdf",
+   "Slides-Diapositivas/Conferencia Entrevista Sin Misterio 25.03.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43570",
+  "name": "Legislação no Ambiente Digital (LGPD) II",
+  "folder": "Aula 59 - 2026-03-26 - Legislação no Ambiente Digital (LGPD) II",
+  "files": [
+   "Slides/Legislação no Ambiente Digital (LGPD) II 26.03.2026_SL.pdf",
+   "Material Complementar Pós-aula/Material Complementar Pós-aula 26.03.2026_MC.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43571",
+  "name": "Gestão de Conflitos",
+  "folder": "Aula 60 - 2026-04-02 - Gestão de Conflitos",
+  "files": [
+   "Material complementar pré-aula/Teste Estilo de Negociacao_MC.docx",
+   "Slides/Gestão de conflitos 02.04.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43572",
+  "name": "Inteligência Emocional",
+  "folder": "Aula 61 - 2026-04-09 - Inteligência Emocional",
+  "files": [
+   "Material Complementar Pré-aula/Leitura Pre-aula_Atividade em Grupo_MC.pdf",
+   "Material Complementar Pré-aula/Material Complementar Pre-aula_MC.pdf",
+   "Slides/Inteligencia emocional 09.04.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "51889",
+  "name": "Palestra Geral: A Vantagem Competitiva das Diferenças",
+  "folder": "Aula 62 - 2026-04-15 - Palestra Geral- A Vantagem Competitiva das Diferenças",
+  "files": [
+   "Slides/The Competitive Advantage of Differences 04.15.2026_SL.pdf",
+   "Slides/La ventaja competitiva de las diferencias 15.04.2026_SL.pdf",
+   "Slides/A Vantagem Competitiva das Diferenças 15.04.2026_SL.pdf",
+   "Material complementar pós-aula/Ebook - A Vantagem Competitiva das Diferencas_MC..pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43573",
+  "name": "IoT I",
+  "folder": "Aula 63 - 2026-04-16 - IoT I",
+  "files": [
+   "Slides/IoT I 16 e 23.04.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43574",
+  "name": "IoT II",
+  "folder": "Aula 64 - 2026-04-23 - IoT II",
+  "files": [
+   "Slides/IoT I e II 16 e 23.04.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43575",
+  "name": "Liderança em Projetos de Tecnologia I",
+  "folder": "Aula 65 - 2026-04-30 - Liderança em Projetos de Tecnologia I",
+  "files": [
+   "Material Complementar Pré-aula/Exercício HD HE_MC.pdf",
+   "Material Complementar Pré-aula/Teste_liderança situacional_MC.pdf",
+   "Slides/Liderança em projetos 30.04 e 05.05.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "52382",
+  "name": "Palestra Geral: Faça sua marca se destacar: Chilli Beans líder em óculos no Brasil",
+  "folder": "Aula 66 - 2026-05-05 - Palestra Geral- Faça sua marca se destacar- Chilli Beans líder em óculos no Brasil",
+  "files": [
+   "Slides-Diapositivas/Palestra Faça a sua marca se destacar 05.05.26_SL.pdf",
+   "Slides-Diapositivas/Lecture Make your brand stand out 05.05.26_SL.pdf",
+   "Slides-Diapositivas/Conferencia Haga que su marca se destaque 05.05.26_SL.ES.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43576",
+  "name": "Liderança em Projetos de Tecnologia II",
+  "folder": "Aula 67 - 2026-05-07 - Liderança em Projetos de Tecnologia II",
+  "files": [
+   "Slides-Diapositivas/Liderança em projetos 30.04 e 07.05.26_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43577",
+  "name": "Blockchain e Criptomoedas I",
+  "folder": "Aula 68 - 2026-05-14 - Blockchain e Criptomoedas I",
+  "files": [
+   "Material Complementar/Revolucoes Pos Plataforma_MC.pdf",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/Caderno do Aluno MBA_ME.pdf",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/MBA USP ESALQ - Instrucoes Caderno do Aluno_ME.png",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/Cuaderno del Estudiante MBA_ME.pdf",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/MBA USP ESALQ - Instrucciones Cuaderno del estudiante_ME.PNG",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/Students Notebook MBA_ME.pdf",
+   "Caderno do aluno-Cuaderno del Estudiante-Student's notebook/MBA USP ESALQ - Instructions Students Notebook_ME.PNG",
+   "Slides/Blockchain e Criptomoedas I e II 14 e 21.05.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "52464",
+  "name": "Palestra Geral: Discovery Commerce - a nova jornada de compra que está transformando o consumo",
+  "folder": "Aula 69 - 2026-05-19 - Palestra Geral- Discovery Commerce - a nova jornada de compra que está transformando o consumo",
+  "files": [
+   "Slides-Diapositivas/Discovery Commerce 19.05.26 ALUNOS_SL.pdf",
+   "Slides-Diapositivas/Discovery Commerce 19.05.26 ALUMNOS_SL.ES.pdf",
+   "Slides-Diapositivas/Discovery Commerce 05.19.26_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "43578",
+  "name": "Blockchain e Criptomoedas II",
+  "folder": "Aula 70 - 2026-05-21 - Blockchain e Criptomoedas II",
+  "files": [
+   "Material Complementar/Revolucoes Pos Plataforma_MC.pdf",
+   "Slides/Blockchain e Criptomoedas I e II 14 e 21.05.2026_SA.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44651",
+  "name": "Paradigmas de Desenvolvimento de Software I",
+  "folder": "Aula 71 - 2026-05-28 - Paradigmas de Desenvolvimento de Software I",
+  "files": [
+   "Slides/Paradigmas de Desenvolvimento de Software 28.05.2026_SL.pdf",
+   "Slides/Paradigmas de Desarrollo de Software 28.05.2026_SL.pdf",
+   "Slides/Software Development Paradigms 05.28.2026_SL.pdf",
+   "Arquivos e Scripts/aula paradigmas_MC.zip"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44653",
+  "name": "Paradigmas de Desenvolvimento de Software II",
+  "folder": "Aula 72 - 2026-06-11 - Paradigmas de Desenvolvimento de Software II",
+  "files": [
+   "Arquivos e Scripts/aula paradigmas_MC.zip",
+   "Slides-Diapositivas/Paradigmas Desenvolvimento Software 28.05-11.06.26_SL.pdf",
+   "Slides-Diapositivas/Paradigmas de Desarrollo de Software 28.05.2026_SL.pdf",
+   "Slides-Diapositivas/Software Development Paradigms 05.28 and 06.11.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "51443",
+  "name": "Palestra Geral: IA Estratégica: Como os Gestores Estão Multiplicando Resultados",
+  "folder": "Aula 73 - 2026-06-17 - Palestra Geral- IA Estratégica- Como os Gestores Estão Multiplicando Resultados",
+  "files": [
+   "Slides/Palestra IA Estratégica 17.06.2026_SA.pdf",
+   "Slides/Lecture Strategic AI 06.17.2026_SA.pdf",
+   "Slides/Palestra IA Estratégica 17.06.2026_SA.pdf",
+   "Folders/Folder de Compliance e ESG.pdf",
+   "Folders/Folder de Data Science e Analytics.pdf",
+   "Folders/Folder de Economia, Investimentos e Banking.pdf",
+   "Folders/Folder de Engenharia de Software.pdf",
+   "Folders/Folder de ESG e Negócios Sustentáveis.pdf",
+   "Folders/Folder de Gestão de Marketing.pdf",
+   "Folders/Folder de Gestão de Negócios.pdf",
+   "Folders/Folder de Gestão de Pessoas.pdf",
+   "Folders/Folder de Gestão de Vendas.pdf",
+   "Folders/Folder de Gestão Escolar.pdf",
+   "Folders/Folder de Gestão Financeira e Controladoria..pdf",
+   "Folders/Folder de Gestão Tributária.pdf",
+   "Folders/Folder de MBA em Agronegócio..pdf",
+   "Folders/Folder de Projetos.pdf",
+   "Folders/Folder de Gestão de Negócios Digitais e IA..pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44654",
+  "name": "Padrões de Projetos (Design Patterns) I",
+  "folder": "Aula 74 - 2026-06-18 - Padrões de Projetos (Design Patterns) I",
+  "files": [
+   "Slides/Padroes de Projetos I 18.06.2026_SL.pdf",
+   "Slides/Patrones de Diseño I 18.06.2026_SL.pdf",
+   "Slides/Design Patterns I 06.18.2026_SL.pdf",
+   "Material Complementar Pós-aula/Material Complementar Pos aula 18.06.2026_MC.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "52835",
+  "name": "Palestra Geral: Internacionalização de negócios: estratégias para competir globalmente",
+  "folder": "Aula 75 - 2026-06-23 - Palestra Geral- Internacionalização de negócios- estratégias para competir globalmente",
+  "files": [
+   "Slides/Palestra Internacionalização de negócios 23.06.2026.pdf",
+   "Slides/Business Internationalization Lecture 06.23.2026.pdf",
+   "Slides/Conferencia. Internacionalización de negocios 23.06.2026.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44655",
+  "name": "Padrões de Projetos (Design Patterns) II",
+  "folder": "Aula 76 - 2026-06-25 - Padrões de Projetos (Design Patterns) II",
+  "files": [
+   "Slides-diapositivas/Padroes de Projetos II 25.06.2026_SL.pdf",
+   "Slides-diapositivas/Design Patterns II 06.25.2026_SL.pdf",
+   "Slides-diapositivas/Patrones de Proyectos II 25.06.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "52609",
+  "name": "Palestra Geral: Além do chat? Ferramentas e cases de adoção de IA generativa que movem ponteiros",
+  "folder": "Aula 77 - 2026-06-30 - Palestra Geral- Além do chat- Ferramentas e cases de adoção de IA generativa que movem ponteiros",
+  "files": [
+   "Slides/Palestra Alem do Chat 30.06.2026.pdf",
+   "Slides/Beyond Chat Lecture 06.30.2026.pdf",
+   "Slides/Conferencia Además del Chat 30.06.2026.ES.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44656",
+  "name": "Domain Driven Design (DDD) I",
+  "folder": "Aula 78 - 2026-07-02 - Domain Driven Design (DDD) I",
+  "files": [
+   "Arquivos e Scripts/ddd-1-main.zip",
+   "Slides/Domain Driven Design (DDD) I 02.07.2026_SL.pdf",
+   "Slides/Domain-driven Designer (DDD) 07.02.2026_SL.pdf",
+   "Slides/Domain-driven Designer (DDD) 02.07.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44658",
+  "name": "Domain Driven Design (DDD) II",
+  "folder": "Aula 79 - 2026-07-16 - Domain Driven Design (DDD) II",
+  "files": [
+   "Arquivos e Scripts/ddd-2.zip",
+   "Slides-Diapositivas/Domain Driven Design II 16.07.2026.pdf",
+   "Slides-Diapositivas/Domain Driven Design II 16.07.2026.pdf",
+   "Slides-Diapositivas/Domain Driven Design II 07.16.2026.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "53222",
+  "name": "Palestra Geral: MBA Day 125 anos",
+  "folder": "Aula 80 - 2026-07-21 - Palestra Geral- MBA Day 125 anos",
+  "files": [],
+  "errors": [],
+  "note": "sem materiais"
+ },
+ {
+  "classId": "44659",
+  "name": "Arquitetura Limpa (Clean Architecture) I",
+  "folder": "Aula 81 - 2026-07-23 - Arquitetura Limpa (Clean Architecture) I",
+  "files": [
+   "Slides-Diapositivas/Arquitetura Limpa 23.07.2026_SL.pdf",
+   "Slides-Diapositivas/Clean Architecture 07.23.2026_SL.pdf",
+   "Slides-Diapositivas/Arquitectura Limpia 23.07.2026_SL.pdf",
+   "Arquivos e Scripts/aula-clean-arch-v4.zip",
+   "Material Complementar/Tutorial Instalacao VS Code_MC.pdf",
+   "Material Complementar/Installation Tutorial VS Code_MC.pdf",
+   "Material Complementar/Tutorial Instalación VS Code_MC.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "53327",
+  "name": "Palestra Geral: As Tecnologias e modelos de Negócios por trás da Inovação Global",
+  "folder": "Aula 82 - 2026-07-27 - Palestra Geral- As Tecnologias e modelos de Negócios por trás da Inovação Global",
+  "files": [
+   "Slides-Diapositivas/Tecnologias e Modelos Negócios 27.07.26 ALUNOS_SL.pdf",
+   "Slides-Diapositivas/Tecnologias y Modelos Negocios 27.07.26_SL.ES.pdf",
+   "Slides-Diapositivas/Technologies and Business Models 07.27.26_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "53342",
+  "name": "Palestra geral: Your company has data, but does it have a strategy?",
+  "folder": "Aula 83 - 2026-07-28 - Palestra geral- Your company has data, but does it have a strategy-",
+  "files": [
+   "Slides/Palestra Internacional MBA USP Esalq 28.07.2026.pdf",
+   "Material Complementar/Programação Completa - Immersion Week 2026.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44660",
+  "name": "Arquitetura Limpa (Clean Architecture) II",
+  "folder": "Aula 84 - 2026-07-30 - Arquitetura Limpa (Clean Architecture) II",
+  "files": [
+   "Arquivos e Scripts/aula-clean-arch-v4.zip",
+   "Material Complementar/Tutorial Instalacao VS Code_MC.pdf",
+   "Material Complementar/Installation Tutorial VS Code_MC.pdf",
+   "Material Complementar/Tutorial Instalacion VS Code_MC.pdf",
+   "Slides-Diapositivas/Arquitetura Limpa 23-30.07.2026_SL.pdf",
+   "Slides-Diapositivas/Clean Architecture 07.23-30.2026_SL.pdf",
+   "Slides-Diapositivas/Arquitectura Limpia 23-30.07.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44661",
+  "name": "Event Storming em Projetos de Software",
+  "folder": "Aula 85 - 2026-08-06 - Event Storming em Projetos de Software",
+  "files": [
+   "Slides-Diapositivas/Event Storming 06.08.2026_SL.pdf",
+   "Slides-Diapositivas/Event Storming 08.06.2026_SL.pdf",
+   "Slides-Diapositivas/Event Storming 06.08.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44662",
+  "name": "Gerenciamento de Testes (TDD) I",
+  "folder": "Aula 86 - 2026-08-13 - Gerenciamento de Testes (TDD) I",
+  "files": [
+   "Arquivos e Scripts/aula-tdd-2026.zip",
+   "Slides/Gerenciamento de Testes 13 e 20.08.2026_SL.pdf",
+   "Slides/Gestión de Pruebas 13 y 20.08.2026_SL.pdf",
+   "Slides/Test Management 08.13 and 08.20.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44663",
+  "name": "Gerenciamento de Testes (TDD) II",
+  "folder": "Aula 87 - 2026-08-20 - Gerenciamento de Testes (TDD) II",
+  "files": [
+   "Arquivos e Scripts/aula-tdd-2026.zip",
+   "Slides-Diapositivas/Gerenciamento de Testes 13 e 20.08.2026_SL.pdf",
+   "Slides-Diapositivas/Test Management 08.13 and 08.20.2026_SL.pdf",
+   "Slides-Diapositivas/Gestión de Pruebas 13 y 20.08.2026_SL.pdf"
+  ],
+  "errors": []
+ },
+ {
+  "classId": "44664",
+  "name": "Micro-front-end I",
+  "folder": "Aula 88 - 2026-08-27 - Micro-front-end I",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "52927",
+  "name": "Palestra Geral: O cérebro do líder na era da IA: como a neurociência potencializa a liderança",
+  "folder": "Aula 89 - 2026-09-02 - Palestra Geral- O cérebro do líder na era da IA- como a neurociência potencializa a liderança",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "44665",
+  "name": "Micro-front-end II",
+  "folder": "Aula 90 - 2026-09-03 - Micro-front-end II",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "44666",
+  "name": "Arquitetura Mobile I",
+  "folder": "Aula 91 - 2026-09-10 - Arquitetura Mobile I",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "44667",
+  "name": "Arquitetura Mobile II",
+  "folder": "Aula 92 - 2026-09-17 - Arquitetura Mobile II",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "52910",
+  "name": "Palestra Geral: Reinventando a carreira depois dos 40",
+  "folder": "Aula 93 - 2026-09-23 - Palestra Geral- Reinventando a carreira depois dos 40",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ },
+ {
+  "classId": "44668",
+  "name": "Gerenciamento e Estruturas de Filas I",
+  "folder": "Aula 94 - 2026-09-24 - Gerenciamento e Estruturas de Filas I",
+  "files": [],
+  "errors": [
+   "página: page.waitForResponse: Timeout 45000ms exceeded while waiting for event \"response\""
+  ]
+ }
+]

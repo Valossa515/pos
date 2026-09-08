@@ -1,0 +1,318 @@
+{
+  "cookies": [
+    {
+      "name": "MUID",
+      "value": "0881B03A8DBE6ACB1294A79E8CD56B81",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1821466252.768748,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "0881B03A8DBE6ACB1294A79E8CD56B81",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1821466252.768842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "0881B03A8DBE6ACB1294A79E8CD56B81",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1821466252.966132,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "noMerch",
+      "value": "false",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": 1819306267.276121,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.131520387.1785239493",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1793015493,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_user",
+      "value": "fRdDh|2026-07-28T11:51:34.498Z",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": 1816775494,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_user",
+      "value": "eQ8Q/1D3VnpY9/iXVJrAyM|2026-07-28T11:52:29.752Z",
+      "domain": "class.mbx.academy",
+      "path": "/",
+      "expires": 1816775549.752874,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_D9CSKKG0KZ",
+      "value": "GS2.1.s1786390819$o2$g1$t1786391071$j52$l0$h0",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1820951071.213014,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.672197288.1785239494",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1822330269.975837,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "em05Tkt1bFlrOEtNemRtTEp2a3VkYnM1WnZzT1FBWWV3SVZEQWF5QjEvdnhxd0NuNkJlbmVtVVVoUlRYZzQ1c3oxVEZUdnVYL2NkbGQrU0t0N2E2SXc9PTsyMDI2LTA4LTI2VDE4OjUwOjUwLjU4NTk2MzRaO213dkNIRysxT0tScWsxTlBINHdMeXc9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==",
+      "domain": ".movessoprd.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "06b1258c962c4b2daa914892dc9118f8.20260728.20270826",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1819306251.493841,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "b25qqq%5E2%5Eg8x%5E0%5E2400",
+      "domain": ".b2clogin.com",
+      "path": "/",
+      "expires": 1819306252,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1788375052.768818,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "1gfhtoq%5E1787770252925%5E1%5E1%5Ez.clarity.ms%2Fcollect",
+      "domain": ".b2clogin.com",
+      "path": "/",
+      "expires": 1787856652,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1788375052.966156,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1787770852.966168,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-sso:movessoprd.onmicrosoft.com_0",
+      "value": "m1.0M6Us7L43DMPuMWF.m4eA64g0SPdg8t7YRehTng==.0.ezKmgK5o/qkritFRhu8lwgInAM8zjA/Vf4un0Azn44zUxfT7HKKrPnZtmJ2xG0JF3c1ANu74WgTsPJVHIx+OnsUMDUiW7YhOBcbxYopTdVcR8kTPJE82tgHfev6MIUUH2bPq9vRW6Ffs/XyoujmQmT9nraoUTzLm5Mel3SFLM9h6s4sE7mWYs6SSNKHLxP+7w5H8nnLbaY8c6eN+FDJ1t4uDltXx0GaIcAl9XQT4OX5Sap/KPhOe0/m0Wr3j40ew7KClP7UOv2eNt0QMqnsdQVGBnvlm1OJAgabm6PLDozbVVVSA9L/s2qtpuUT+KORsVbOD6kYwh+pg9CBcbHqmRqEEWRi5JqJlyk44HJcvwyXXxpd8SK8eU2/9htDYYbbGSzZI/WI/SvqUofpnvnA+wjoG9LWahTe20q+oDBZ5KIU5O56ft+5L2AXDK4GxKbNQxX79DLxUYRD2xplcdCDUXQEmaHyNqcucLjNkSAlkQprkTsc27Ak94u4rM8OH4pggYXfZHiBktvviReyQwt5+5fd3uXgUWEPWq+WzMmDpu2oL3CZyCNNki1pvKKE6G6G0eXuck9wQjjcCpF6F4B80yFRI05IKWtLFqEkz/1Eam4ErB8it/2wBGoh8uNBATIuthN7nhw==",
+      "domain": ".movessoprd.b2clogin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".PRDAUTH",
+      "value": "32E0BE0A6D68DA93F09D3A4CDB04297B342CE4DCCE19CE87C4B8239B9E9D64E1A73C096C04A67273776D056DDBF2F08A5690E783E5E6D724E6C9E4C2CF3903EF2B6D652F97CD903A967B32ADC8298122EA0385CEFB521D77ECB6F24EA0B66A813560E042C1FB6C4813F46B5FE56100E8C4BA1C2B26C9E402AA7E7DF31DDB036D1B12D6C4",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": 1787773864.80335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNet.Cookies",
+      "value": "0hhLS5YFIrGsu9PJTVe4KZwV2dAwnlz9VLgXEJSV7a7xZefMXDY3pmWcZt7FkeWw7Td36yOh9kxdA-9XcJc91dGjVZQbJosIcsZzRZ3rO7CA3GC9vpZmVgYIvs0TgKalMhxebSE-JKFk5q5TGzVQQp5BqM-kta0lq4alYPU8hMnBJzyo0Hm3u-_fZuZguustek5ECPY9fnbH2N2eokmndD1qy1WKfMErkeqUYmY8fTuxGsRMsxj8M7MAT2z0JskqfFNo8_D1vukBl-PwmllHYNoP6q72LHiQx59dw1GabcvW4d6Can5XtaiUmmIDcAIyJnZO9NFI9ni6p_DcNrIzH2Cl2yIqSmLit_GWa0iM_OtoBap5dvth8Sb4tsT5WGkHrHOpcf-B54uTRGicp8pmnUAztdluReFRJrup_djBp_nEPOGydws7T6szdY7kZDz0qU5jIx-i90ubmI76IWoELf8iw4WdMY9Wd_rJ6oE3sRr4QCDdY8QC9RJs4g2Wjk_fZSbCRJHtZzxoeUSLexWL0-PSTySHAeP6kxp1FMJmlkHMyqsCHnUDT26gCJ4z5FYQ-dzH7fuGVoFRx3dS70mfXWVAtB4fL0LDkSNoKx4NzlxvAvgBg2NbCnAvwtBUDqzGXi0yutn_ILVMxXsHBDpoTMDuky58CMCB0d88fKb-brc-rdB4nsHBKrT9d4M31ToingDMi0lPcqSdYHiMUBj6xUeEy8LG6u0z_dL7BHA6hODLTcP-3yLLOD9_bPV9FJP7p2I6HeAXTHkss54Sl3aYWiVx9wnjc_T4l0W6RYznVpK-v8FTi4H6T9aSjBq6EvlnVLTY-m-DHWLsUQ859PEMSg6QRO4swAMQgCEavanfow5b2NTv",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "onsib50pre1ni45upisixwxv",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1021538460.1787770270",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1787856669,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-65946087-1",
+      "value": "1",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1787770329,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_session",
+      "value": "L3v1E|1787770270059.8|1787770270059.8",
+      "domain": "classicdashboard.mbx.academy",
+      "path": "/",
+      "expires": 1787772070,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "c48xlp%5E2%5Eg8x%5E0%5E2400",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1819306270,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3R602MFTKE",
+      "value": "GS2.2.s1787770270$o3$g0$t1787770270$j60$l0$h0",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1822330270.307697,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "1qu1dkz%5E1787770270970%5E1%5E1%5El.clarity.ms%2Fcollect",
+      "domain": ".mbx.academy",
+      "path": "/",
+      "expires": 1787856670,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://classicdashboard.mbx.academy",
+      "localStorage": [
+        {
+          "name": "Plugin_settings__widget-grid",
+          "value": "{\"widget\":[{\"id\":\"widget-nextClasses\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-exams\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-treasury\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-documents\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-calendar\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-series\",\"title\":\"\",\"hidden\":0,\"collapsed\":0},{\"id\":\"widget-academicseries\",\"title\":\"\",\"hidden\":0,\"collapsed\":0}]}"
+        },
+        {
+          "name": "showNewStudentVisionModal",
+          "value": "false"
+        },
+        {
+          "name": "ai_session",
+          "value": "kiJdt|1786390736472|1786391251248"
+        },
+        {
+          "name": "GA_MenuType",
+          "value": "1"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"fviuMFdOfwuJxjJf7V2it0esfbTXMnYhcQ\",\"lastJoinedTimeMs\":1787770269541},\"expires\":1787770569541},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1785239493375},\"expires\":1793015493375}}"
+        },
+        {
+          "name": "Plugin_position__widget-grid",
+          "value": "{\"grid\":[{\"section\":[{\"id\":\"widget-academicseries\"}]}]}"
+        }
+      ]
+    },
+    {
+      "origin": "https://movessoprd.b2clogin.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "pt-BR"
+        },
+        {
+          "name": "theme",
+          "value": "light"
+        }
+      ]
+    }
+  ]
+}
