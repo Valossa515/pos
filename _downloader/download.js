@@ -1,12 +1,14 @@
 const { chromium } = require('playwright');
 const path = require('path');
 const fs = require('fs');
+const os = require('os');
 const { Readable } = require('stream');
 const { pipeline } = require('stream/promises');
 
 const PROFILE_DIR = path.join(__dirname, 'browser-profile');
 const BASE = 'https://classicdashboard.mbx.academy';
-const DEST = '/Users/felipe.ooliveira/Pos';
+// Destino: POS_DEST no ambiente, senao <home>/Pos (funciona em Windows, macOS e Linux)
+const DEST = process.env.POS_DEST || path.join(os.homedir(), 'Pos');
 const COURSE_ID = 1540;
 
 const classes = JSON.parse(fs.readFileSync(path.join(__dirname, 'classes.json'), 'utf8'));
@@ -48,7 +50,25 @@ function collectFiles(nodes, prefix, out, links) {
   }
 }
 
+function writeManifest(manifest) {
+  // Windows as vezes trava o arquivo (antivirus/indexador) -> tenta de novo, e nunca derruba o run
+  const dest = path.join(__dirname, 'manifest.json');
+  const tmp = dest + '.tmp';
+  for (let i = 0; i < 3; i++) {
+    try {
+      fs.writeFileSync(tmp, JSON.stringify(manifest, null, 1));
+      fs.renameSync(tmp, dest);
+      return;
+    } catch (e) {
+      if (i === 2) console.log(`  [aviso] nao consegui gravar manifest.json: ${e.code || e.message}`);
+    }
+  }
+}
+
 (async () => {
+  fs.mkdirSync(DEST, { recursive: true });
+  console.log(`Destino: ${DEST}
+`);
   const ctx = await chromium.launchPersistentContext(PROFILE_DIR, { headless: true });
   const page = ctx.pages()[0] || (await ctx.newPage());
 
@@ -107,7 +127,7 @@ function collectFiles(nodes, prefix, out, links) {
       entry.errors.push(`página: ${e.message.split('\n')[0]}`);
       console.log(`  [ERRO página] ${e.message.split('\n')[0]}`);
     }
-    fs.writeFileSync(path.join(__dirname, 'manifest.json'), JSON.stringify(manifest, null, 1));
+    writeManifest(manifest);
   }
 
   await ctx.close();
